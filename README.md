@@ -26,7 +26,6 @@ Selanjutnya terdapat dashboard yang menampilkan informasi statistik seputar duni
     <li>Trafik Populer</li>
     <li>Total Film</li>
     <li>Total Unduhan</li>
-    <li>Total Tayangan</li>
 </ol>
 Untuk datanya disini disimpan dalam array di PageController.
 
