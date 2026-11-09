@@ -15,7 +15,7 @@
 ### Deskripsi :
 <p style="text-align: justify;" >
 
-Saya Nadiv, yang saat ini membuat project UTS PWEB B dengan tema Pengelolaan Film Spider-Man menggunakan Laravel dan menerapkan alur penggunaan Controller.
+Saya M. Nadiv Darmawan dari NIM 252410102024, yang saat ini membuat project UTS PWEB A dengan tema Pengelolaan Film Spider-Man menggunakan Laravel dan menerapkan alur penggunaan Controller.
 
 Disini dimulai dari fitur login yang berisi input username dan validasi error jika username tidak diinputkan. Halaman login juga menggunakan background bertema Spider-Man yang berasal dari asset gambar pada folder public/images.
 
