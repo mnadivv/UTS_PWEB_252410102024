@@ -33,11 +33,11 @@ class PageController extends Controller
         }
 
         $statistik = [
-            ['judul' => 'Total tayangan', 'nilai' => 900,000,000, 'status' => 'High'],
-            ['judul' => 'Menyukai', 'nilai' => 12,000,000, 'status' => 'High'],
+            ['judul' => 'Total tayangan', 'nilai' => 910202400, 'status' => 'High'],
+            ['judul' => 'Menyukai', 'nilai' => 12004500, 'status' => 'High'],
             ['judul' => 'Trafik Populer', 'nilai' => 200, 'status' => 'Medium'],
             ['judul' => 'Total Film', 'nilai' => 9, 'status' => 'Low'],
-            ['judul' => 'Total Unduhan', 'nilai' => 300.000, 'status' => 'Medium']
+            ['judul' => 'Total Unduhan', 'nilai' => 300000, 'status' => 'Medium']
         ];
 
         return view('dashboard', compact('username', 'statistik'));
