@@ -7,7 +7,7 @@
 <img src="asset/readme/dashboard.png" alt="Dashboard">
 
 <h2>Profil</h2>
-<img src="asset/readme/profil.png" alt="Profil">
+<img src="asset/readme/profile.png" alt="Profil">
 
 <h2>Pengelolaan</h2>
 <img src="asset/readme/pengelolaan.png" alt="Pengelolaan">
