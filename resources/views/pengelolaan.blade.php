@@ -1,7 +1,6 @@
-
 @extends('layouts.app')
 
-@section('title', 'Pengelolaan Episode')
+@section('title', 'Pengelolaan Series')
 
 @section('content')
 <div class="px-6 py-7">
@@ -10,7 +9,7 @@
         style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('{{ asset('images/mainnewyork.png') }}'); background-size: cover; background-position: center; background-repeat: no-repeat;">
         <div class="flex justify-between items-center">
             <div>
-                <h2 class="text-2xl font-bold">Pengelolaan Episode</h2>
+                <h2 class="text-2xl font-bold">Pengelolaan Series</h2>
                 <p class="pt-2">Daftar Series Film Spiderman</p>
                 <p class="font-bold text-red-400">Halo, {{ $username }}</p>
             </div>
